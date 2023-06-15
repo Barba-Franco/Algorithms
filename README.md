@@ -2,6 +2,7 @@
 We introduce MATLAB algorithms designed for numerical simulations of a system composed of ring-coupled Duffing oscillators. 
 Our algorithms encompass various functionalities, including the computation of time series, Lyapunov exponents, power spectra, and instantaneous frequency. 
 These codes provide a comprehensive toolkit for analyzing and understanding the dynamics of the ring-coupled Duffing oscillator system.
+
 All these codes were developed by Barba-Franco, J.J. as part of his research, you can visit his academic profiles or send a mail to josedejesusbarbafranco@gmail.com if you need help or if you want to colaborate.
 Academic profiles: 
 Orcid
