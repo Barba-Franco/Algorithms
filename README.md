@@ -1,4 +1,4 @@
-# Dynamics-of-Coexisting-Rotating-Waves-in-Unidirectional-Rings-of-Bistable-Duffing-Oscillators_Repos
+# DCRWURBDO_Repository
 We introduce MATLAB algorithms designed for numerical simulations of a system composed of ring-coupled Duffing oscillators. 
 Our algorithms encompass various functionalities, including the computation of time series, Lyapunov exponents, power spectra, and instantaneous frequency. 
 These codes provide a comprehensive toolkit for analyzing and understanding the dynamics of the ring-coupled Duffing oscillator system.
